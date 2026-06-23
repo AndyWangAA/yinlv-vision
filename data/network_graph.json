@@ -1197,6 +1197,132 @@
       "genres": [
         "流行 Pop"
       ]
+    },
+    {
+      "name": "许嵩",
+      "value": 5,
+      "category": 4,
+      "symbolSize": 15,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
+    },
+    {
+      "name": "黄龄",
+      "value": 2,
+      "category": 3,
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
+    },
+    {
+      "name": "何曼婷",
+      "value": 1,
+      "category": 5,
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
+    },
+    {
+      "name": "MC HotDog",
+      "value": 8,
+      "category": 0,
+      "symbolSize": 19,
+      "genres": [
+        "嘻哈 Hip-Hop"
+      ]
+    },
+    {
+      "name": "张震岳",
+      "value": 6,
+      "category": 2,
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock",
+        "嘻哈 Hip-Hop"
+      ]
+    },
+    {
+      "name": "潘玮柏",
+      "value": 5,
+      "category": 3,
+      "symbolSize": 15,
+      "genres": [
+        "流行 Pop",
+        "嘻哈 Hip-Hop"
+      ]
+    },
+    {
+      "name": "纪佳松",
+      "value": 3,
+      "category": 2,
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop",
+        "嘻哈 Hip-Hop"
+      ]
+    },
+    {
+      "name": "GAI周延",
+      "value": 3,
+      "category": 5,
+      "symbolSize": 13,
+      "genres": [
+        "嘻哈 Hip-Hop"
+      ]
+    },
+    {
+      "name": "陶喆",
+      "value": 15,
+      "category": 0,
+      "symbolSize": 26,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
+    },
+    {
+      "name": "娃娃",
+      "value": 6,
+      "category": 1,
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
+    },
+    {
+      "name": "王力宏",
+      "value": 12,
+      "category": 0,
+      "symbolSize": 23,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
+    },
+    {
+      "name": "崔健",
+      "value": 7,
+      "category": 0,
+      "symbolSize": 18,
+      "genres": [
+        "摇滚 Rock"
+      ]
+    },
+    {
+      "name": "伍佰",
+      "value": 8,
+      "category": 0,
+      "symbolSize": 19,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     }
   ],
   "links": [
@@ -1843,6 +1969,56 @@
     {
       "source": "陈奕迅",
       "target": "唐恬",
+      "value": 1
+    },
+    {
+      "source": "许嵩",
+      "target": "黄龄",
+      "value": 2
+    },
+    {
+      "source": "许嵩",
+      "target": "何曼婷",
+      "value": 1
+    },
+    {
+      "source": "MC HotDog",
+      "target": "张震岳",
+      "value": 6
+    },
+    {
+      "source": "潘玮柏",
+      "target": "纪佳松",
+      "value": 4
+    },
+    {
+      "source": "GAI周延",
+      "target": "MC HotDog",
+      "value": 1
+    },
+    {
+      "source": "陶喆",
+      "target": "娃娃",
+      "value": 8
+    },
+    {
+      "source": "王力宏",
+      "target": "李焯雄",
+      "value": 3
+    },
+    {
+      "source": "王力宏",
+      "target": "方文山",
+      "value": 1
+    },
+    {
+      "source": "伍佰",
+      "target": "刘若英",
+      "value": 2
+    },
+    {
+      "source": "张震岳",
+      "target": "林俊杰",
       "value": 1
     }
   ]
