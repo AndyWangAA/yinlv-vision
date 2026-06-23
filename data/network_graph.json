@@ -24,751 +24,1179 @@
       "name": "邓丽君",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "翁清溪",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "孙仪",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "印尼民歌",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "民谣 Folk"
+      ]
     },
     {
       "name": "卢东尼",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "庄奴",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "齐豫",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "李泰祥",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "三毛",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "民谣 Folk"
+      ]
     },
     {
       "name": "叶丽仪",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "黄霑",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "顾嘉辉",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "侯德健",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "陈志远",
       "value": 8,
       "category": 2,
-      "symbolSize": 19
+      "symbolSize": 19,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "苏芮",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "罗大佑",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "群星",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "齐秦",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "Beyond",
       "value": 12,
       "category": 2,
-      "symbolSize": 23
+      "symbolSize": 23,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘卓辉",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "黄家驹",
       "value": 11,
       "category": 2,
-      "symbolSize": 22
+      "symbolSize": 22,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "李宗盛",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "李正帆",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈淑桦",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "郑智化",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "张学友",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "何启弘",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "丁晓雯",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "殷文琦",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "郭子",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "王豫民",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "张宇",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "十一郎",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘德华",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "杜自持",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "李安修",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈耀川",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "王菲",
       "value": 18,
       "category": 1,
-      "symbolSize": 29
+      "symbolSize": 29,
+      "genres": [
+        "流行 Pop",
+        "电子乐 Elec",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "黄国伦",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "姚谦",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "张亚东",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "电子乐 Elec",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "老狼",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "民谣 Folk",
+        "流行 Pop"
+      ]
     },
     {
       "name": "高晓松",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "民谣 Folk",
+        "流行 Pop"
+      ]
     },
     {
       "name": "任贤齐",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "小虫",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘志宏",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "洪敬尧",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "周华健",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘思铭",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "林夕",
       "value": 10,
       "category": 4,
-      "symbolSize": 21
+      "symbolSize": 21,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "柳重言",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "Alex San",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "Davy Chan",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘志远",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "五月天",
       "value": 12,
       "category": 2,
-      "symbolSize": 23
+      "symbolSize": 23,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "阿信",
       "value": 12,
       "category": 2,
-      "symbolSize": 23
+      "symbolSize": 23,
+      "genres": [
+        "摇滚 Rock",
+        "流行 Pop"
+      ]
     },
     {
       "name": "刘若英",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "王继康",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "施人诚",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "玉城千春",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "周杰伦",
       "value": 47,
       "category": 0,
-      "symbolSize": 60
+      "symbolSize": 60,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏",
+        "嘻哈 Hip-Hop"
+      ]
     },
     {
       "name": "徐若瑄",
       "value": 2,
       "category": 5,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "钟兴民",
       "value": 12,
       "category": 2,
-      "symbolSize": 23
+      "symbolSize": 23,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "林忆莲",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "陈奕迅",
       "value": 36,
       "category": 0,
-      "symbolSize": 48
+      "symbolSize": 48,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈辉阳",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "光良",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "Mac Chew",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "林迈可",
       "value": 14,
       "category": 2,
-      "symbolSize": 25
+      "symbolSize": 25,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "方文山",
       "value": 9,
       "category": 5,
-      "symbolSize": 20
+      "symbolSize": 20,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏",
+        "嘻哈 Hip-Hop"
+      ]
     },
     {
       "name": "梁静茹",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "瑞业",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "黄伟文",
       "value": 3,
       "category": 5,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "许世昌",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈小霞",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "黄俊郎",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop",
+        "嘻哈 Hip-Hop"
+      ]
     },
     {
       "name": "孙燕姿",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "林一峰",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "Terence Teo",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "易家扬",
       "value": 2,
       "category": 5,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "林俊杰",
       "value": 24,
       "category": 1,
-      "symbolSize": 36
+      "symbolSize": 36,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "蔡政勋",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "李瑞洵",
       "value": 2,
       "category": 5,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "Taichi Nakamura",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "C.Y. Kong",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "电子乐 Elec"
+      ]
     },
     {
       "name": "张韶涵",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "王雅君",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈俊廷",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "吴庆隆",
       "value": 10,
       "category": 2,
-      "symbolSize": 21
+      "symbolSize": 21,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "林秋离",
       "value": 2,
       "category": 5,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "泽日生",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "陈珀",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "Eric Kwok",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "梁翘柏",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "施立",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "李焯雄",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "孙伟明",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "黄雨勋",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "李健",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "谭伊哲",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "电子乐 Elec"
+      ]
     },
     {
       "name": "刘兵",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "木村充利",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "侯志坚",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "小柯",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop",
+        "民谣 Folk"
+      ]
     },
     {
       "name": "胡夏",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "九把刀",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "朴树",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "民谣 Folk",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "韩寒",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "民谣 Folk"
+      ]
     },
     {
       "name": "马頔",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "民谣 Folk"
+      ]
     },
     {
       "name": "尧十三",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "民谣 Folk"
+      ]
     },
     {
       "name": "田馥甄",
       "value": 4,
       "category": 2,
-      "symbolSize": 14
+      "symbolSize": 14,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "徐世珍",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "JerryC",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "吴辉福",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "那英",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "钱雷",
       "value": 6,
       "category": 2,
-      "symbolSize": 16
+      "symbolSize": 16,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "尹约",
       "value": 2,
       "category": 5,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "周深",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "李荣浩",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏"
+      ]
     },
     {
       "name": "郑伟",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "电子乐 Elec"
+      ]
     },
     {
       "name": "薛之谦",
       "value": 3,
       "category": 2,
-      "symbolSize": 13
+      "symbolSize": 13,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "甘世佳",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     },
     {
       "name": "邓紫棋",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "R&B 节奏",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "Lupo Groinig",
       "value": 2,
       "category": 2,
-      "symbolSize": 12
+      "symbolSize": 12,
+      "genres": [
+        "流行 Pop",
+        "摇滚 Rock"
+      ]
     },
     {
       "name": "唐恬",
       "value": 1,
       "category": 5,
-      "symbolSize": 11
+      "symbolSize": 11,
+      "genres": [
+        "流行 Pop"
+      ]
     }
   ],
   "links": [
